@@ -13,8 +13,8 @@ Usage:
 
 1. 'make clean' to remove all previously created object files.
 2. 'make all' to compile the complete source code in the package. 'make proxy' OR 'make client' if you want to compile individual files.
-3. ./proxy <Proxy Server IP> <Port>
-4. ./client <Proxy Server IP> <Port> <URL>
+3. ./proxy *Proxy Server IP* *Port*
+4. ./client *Proxy Server IP* *Port* *URL*
   
 Tests:
 
